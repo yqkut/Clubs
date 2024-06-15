@@ -1,0 +1,6 @@
+name: Clubs
+version: '${project.version}'
+description: Clubs & Friends
+authors: [yakut]
+main: lol.yakut.clubs.Clubs
+depend: [PlaceholderAPI]
