@@ -1,6 +1,0 @@
-name: Clubs
-version: '1.0-SNAPSHOT'
-description: Clubs & Friends
-authors: [yakut]
-main: lol.yakut.clubs.Clubs
-depend: [PlaceholderAPI]
